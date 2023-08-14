@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apps1</string>
+    <string name="add_contact">ADD CONTACT</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="enter_number">Enter Number:</string>
+    <string name="save">SAVE</string>
+</resources>
